@@ -1,8 +1,10 @@
 # Weather Now ⛅
 
 A beautiful, modern weather app built with **React** and **Tailwind CSS**. Instantly check the current weather for any city in the world with a stunning, animated UI.
+<img width="1118" height="626" alt="image" src="https://github.com/user-attachments/assets/7d7f9a82-59ea-4ce1-acb3-a6fdb5a2e275" />
+<img width="1299" height="753" alt="image" src="https://github.com/user-attachments/assets/4992676c-7d63-41e0-8c58-cf52be96851a" />
 
-![Weather Now Screenshot](./Screenshot%20(105).png)
+
 
 ## 🚀 Features
 
@@ -13,7 +15,7 @@ A beautiful, modern weather app built with **React** and **Tailwind CSS**. Insta
 
 ## 🌈 Demo
 
-[Live Demo Coming Soon!]
+(https://weather-now-phi-one.vercel.app/)
 
 ## 🛠️ Tech Stack
 
